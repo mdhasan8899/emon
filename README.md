@@ -3,7 +3,7 @@
 <img src="https://github.com/Adymalikx/Contributor-Credits/blob/main/Adymalikx.jpg" alt="Adymalikx" width="600" style="vertical-align: bottom;">
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Developer <br><br>🌱 I’m currently learning Python(Numerical Methods & Optimization) , SQL <br><br>👨‍💻 All of my projects are available at https://github.com/Adymalikx<br><br>💬 Ask me about BEEE,Full Stack Developing , C,C++,Java <br><br>📄 Know about my experiences i am Codin Ninjas Topper in python and BEEE Hardware Assembler in Exploit OverLords Group <br><br>⚡Fun Fact about Full Stack developer is that full stack is itself a joke.
+🔭 I’m currently working on Frontend Developer <br><br>🌱 I’m currently learning Python(Numerical Methods & Optimization) , SQL <br><br>👨‍💻 All of my projects are available at https://github.com/mdhasan8899<br><br>💬 Ask me about BEEE,Full Stack Developing , C,C++,Java <br><br>📄 Know about my experiences i am Codin Ninjas Topper in python and BEEE Hardware Assembler in Exploit OverLords Group <br><br>⚡Fun Fact about Full Stack developer is that full stack is itself a joke.
 
 
 
